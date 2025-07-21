@@ -18,3 +18,13 @@ export default {
   }
 }
 ```
+
+## Attribute Bindings
+
+Composition APIと同じ。
+
+## [Event Listeners](https://vuejs.org/tutorial/#step-4)
+
+Composition APIとの違い  
+- 関数を `methods` オプションに定義する。
+- コンポーネント インスタンスに `this` でアクセスする。
